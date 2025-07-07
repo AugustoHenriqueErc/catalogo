@@ -1,0 +1,26 @@
+header {
+    background-color: black;
+    height: 300px;
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: white;
+}
+html {
+    background-color: white;
+}
+body {
+    background-color: aliceblue;
+    width: 700px;
+}
+#sobre{
+    width: 1400px;
+    border: black, solid, 2px;
+}
+.albumSection{
+    width: 600px;
+    height: 600px;
+}
+.albumSection img {
+    width: 500px;
+    height: 500px;
+}
